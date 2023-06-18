@@ -13,6 +13,9 @@ h3 {
   text-align: center;
   margin: 0;
 }
+h3 {
+  margin-bottom: 100px !important;
+}
 .navigation-links {
   display: flex;
   margin-top: 40px;
