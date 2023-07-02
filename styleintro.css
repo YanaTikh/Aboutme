@@ -40,3 +40,11 @@ h3 {
 .active {
   color: var(--primary-color);
 }
+footer a .github {
+  margin: 0 20px;
+  color: var(--primary-color);
+  background-color: var(--secondary-color);
+  padding: 10px 14px;
+  font-size: 18px;
+  border-radius: 50%;
+}
