@@ -27,13 +27,16 @@ h1 {
   font-size: 28px;
   text-decoration: none;
 }
-@media (max-width: 600px) {
+@media (max-width: 200px) {
   img {
     display: none;
   }
 }
 .active {
   color: var(--primary-color);
+}
+footer {
+  margin: 60px 0;
 }
 footer a .github {
   margin: 0 20px;

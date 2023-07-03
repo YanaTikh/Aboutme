@@ -40,6 +40,9 @@ h3 {
 .active {
   color: var(--primary-color);
 }
+footer {
+  margin: 60px 0;
+}
 footer a .github {
   margin: 0 20px;
   color: var(--primary-color);
